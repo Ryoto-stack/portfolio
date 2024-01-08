@@ -181,7 +181,7 @@ hr {
     padding-bottom: 150px;
 }
 
-.image1, .image2, .image3 {
+.image1, .image2, .image3, .image4 {
     width:470px;
     height:300px;
     display: block;
@@ -193,7 +193,7 @@ hr {
     cursor: pointer;
 }
 
-.main1, .main2, .main3 {
+.main1, .main2, .main3, .main4 {
     position: relative; 
     height: auto;
 }
